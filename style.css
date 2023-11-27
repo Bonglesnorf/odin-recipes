@@ -7,3 +7,22 @@ a {
     font-size: 100px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 650px;
+    padding: 10px;
+    background: #BB8FCE;
+    text-align: center;
+    
+}
+
+#buttered {
+    
+}
+
+#fries {
+    
+}
