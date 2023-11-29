@@ -3,12 +3,13 @@
 }
 
 a {
+    color: black;
     background-color: #BB8FCE;
     font-size: 100px;
     font-family: 'Courier New', Courier, monospace;
 }
 
-div {
+.recipe {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
@@ -16,13 +17,13 @@ div {
     padding: 10px;
     background: #BB8FCE;
     text-align: center;
-    
 }
-
-#buttered {
-    
-}
-
-#fries {
-    
+.card {
+    width: 675px;
+    height: 535px;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
 }
